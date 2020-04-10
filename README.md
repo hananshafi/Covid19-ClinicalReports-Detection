@@ -16,4 +16,4 @@ The data contains patient clinical reports regarding lung analysis, symptoms, ag
 ![Neural Network Model](https://github.com/hananshafi/Covid19-ClinicalReports-Detection/blob/master/images/C_matrix.JPG)
 
 ## Model Prediction
-![Neural Network Model](https://github.com/hananshafi/Covid19-ClinicalReports-Detection/blob/master/images/PREDICTION.JPG)
+![Neural Network Model](https://github.com/hananshafi/Covid19-ClinicalReports-Detection/blob/master/images/FINAL.JPG)
