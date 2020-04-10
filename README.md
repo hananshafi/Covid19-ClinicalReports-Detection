@@ -1,5 +1,5 @@
 # Covid19-ClinicalReports-Detection
-This projects aims to provide a headstart to detect covid-19 from patient symptoms, clinical notes on lung xray analysis and other factors.
+This projects aims to provide a headstart to detect covid-19 from patient symptoms, body temperature, pO2 level, clinical notes on lung xray analysis and other factors.
 The attached Jupyter notebook contains the entire code: Loading data, Pre-processing, Training and Inferring. 
 
 # Data
