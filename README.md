@@ -10,8 +10,8 @@ The data contains patient clinical reports regarding lung analysis, symptoms, ag
 # Model Statistics and Metrics
 
 ## Classification Report
-![Neural Network Model](https://github.com/hananshafi/Covid19-ClinicalReports-Detection/blob/master/images/C_matrix.JPG)
+![Neural Network Model](https://github.com/hananshafi/Covid19-ClinicalReports-Detection/blob/master/images/c_report.JPG)
 
 ## Confusion Matrix
-![Neural Network Model](https://github.com/hananshafi/Covid19-ClinicalReports-Detection/blob/master/images/c_report.JPG)
+![Neural Network Model](https://github.com/hananshafi/Covid19-ClinicalReports-Detection/blob/master/images/C_matrix.JPG)
 
